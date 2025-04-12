@@ -15,7 +15,8 @@
 6. Analyze the results and compare model performance across continents.
 
 ## Introduction
-This project aims to reproduce and extend the methodology from the GitHub project [COVID19-Algeria-and-World-Dataset](https://github.com/SamBelkacem/COVID19-Algeria-and-World-Dataset) using a global COVID-19 dataset from Our World in Data.  
+This project aims to reproduce and extend the methodology from the GitHub project [COVID19-Algeria-and-World-Dataset](https://github.com/SamBelkacem/COVID19-Algeria-and-World-Dataset) using a global COVID-19 dataset from Our World in Data.
+and here is the [Research Paper](https://paperswithcode.com/paper/covid-19-data-analysis-and-forecasting).
 Our focus is on understanding and modeling COVID-19 trends **by continent** using machine learning models.
 
 ---
