@@ -1,5 +1,4 @@
-# AIDI 1002 Final Project Report: COVID-19 Dataset Analysis by Continent
-
+# AIDI 1002 Final Project Report
 ## Group Members
 - Jay Patel (200590967)  
 - Rohan Patel (200590360)
